@@ -18,9 +18,14 @@
   },
   "homepage": "https://github.com/jonilsondeveloper/goreact-modulo-1#readme",
   "dependencies": {
+    "fstream": "^1.0.12",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.14",
+    "lodash.mergewith": "^4.6.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "tar": "^4.4.10"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
